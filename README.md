@@ -9,3 +9,5 @@ Rule:
 -Consistency matters more than perfection
 
 ## Log
+
+Day 1 - first py program
